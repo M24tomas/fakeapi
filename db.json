@@ -1,0 +1,17 @@
+{
+
+"success": true,
+
+"user": {
+	"name" : "Alex",
+	"avatar": "default.svg",
+	"level": 0,
+	"points": 0,
+  "achievements": [],
+	"_id": "5c98f765032d760006f3407c",
+	"type": "Administrator",
+	"user": "Alex",
+	"email": "leparadoxhd@gmail.com"
+}
+"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+}
